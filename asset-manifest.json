@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hwsAuto/static/css/main.18f8ca56.css",
+    "main.js": "/hwsAuto/static/js/main.05bebdc3.js",
+    "static/js/787.66cb4309.chunk.js": "/hwsAuto/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hwsAuto/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hwsAuto/index.html",
+    "main.18f8ca56.css.map": "/hwsAuto/static/css/main.18f8ca56.css.map",
+    "main.05bebdc3.js.map": "/hwsAuto/static/js/main.05bebdc3.js.map",
+    "787.66cb4309.chunk.js.map": "/hwsAuto/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f8ca56.css",
+    "static/js/main.05bebdc3.js"
+  ]
+}
