@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/hwsAuto/static/css/main.18f8ca56.css",
-    "main.js": "/hwsAuto/static/js/main.05bebdc3.js",
+    "main.css": "/hwsAuto/static/css/main.9ea78471.css",
+    "main.js": "/hwsAuto/static/js/main.05638501.js",
     "static/js/787.66cb4309.chunk.js": "/hwsAuto/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hwsAuto/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/hwsAuto/index.html",
-    "main.18f8ca56.css.map": "/hwsAuto/static/css/main.18f8ca56.css.map",
-    "main.05bebdc3.js.map": "/hwsAuto/static/js/main.05bebdc3.js.map",
+    "static/media/bubbleTipFriend.svg": "/hwsAuto/static/media/bubbleTipFriend.ea6158b29934e7c76ae6.svg",
+    "static/media/bubbleTip.svg": "/hwsAuto/static/media/bubbleTip.c93926e4713e2081f390.svg",
+    "main.9ea78471.css.map": "/hwsAuto/static/css/main.9ea78471.css.map",
+    "main.05638501.js.map": "/hwsAuto/static/js/main.05638501.js.map",
     "787.66cb4309.chunk.js.map": "/hwsAuto/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f8ca56.css",
-    "static/js/main.05bebdc3.js"
+    "static/css/main.9ea78471.css",
+    "static/js/main.05638501.js"
   ]
 }
