@@ -1,5 +1,7 @@
 .message {
   /* grid-area: r; */
+  display: flex;
+  flex-direction: column;
 }
 
 .imageAndText {
@@ -14,6 +16,7 @@
 }
 
 .text {
+  padding: 7px 13px 8px;
   display: flex;
   flex-direction: column;
   border-radius: 6px;
@@ -58,7 +61,7 @@
 .time {
   display: flex;
   flex-direction: row-reverse;
-
+  padding: 5px 10px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 600;
